@@ -23,7 +23,7 @@ spring:
   redis:
     #数据库索引
     database: 0
-    host: 127.0.0.1
+    host: 119.3.89.184
     port: 6379
     password:
     #连接超时时间
@@ -60,3 +60,4 @@ rsa:
 # sm.ms 图床的 token
 smms:
   token: 1oOP3ykFDI0K6ifmtvU7c8Y1eTWZSlyl
+
